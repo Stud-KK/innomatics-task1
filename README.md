@@ -16,8 +16,9 @@ All solutions are implemented using a **Jupyter Notebook**.
 ---
 
 ## 📂 Project Structure
-├── Logic_Building_Task_1.ipynb
-└── README.md
+Logic_Building_Task_1.ipynb
+
+README.md
 
 
 ---
